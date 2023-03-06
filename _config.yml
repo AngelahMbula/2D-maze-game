@@ -8,12 +8,13 @@ github_username: AngelahMbula
 author: mbula.angelah@gmail.com
 
 markdown: kramdown
-theme: hacker
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-paginate-v2
   - jekyll-polyglot
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 exclude:
   - Gemfile
