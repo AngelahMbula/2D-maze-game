@@ -8,7 +8,7 @@ github_username: AngelahMbula
 author: mbula.angelah@gmail.com
 
 markdown: kramdown
-theme: cayman
+theme: hacker
 plugins:
   - jekyll-feed
   - jekyll-paginate-v2
