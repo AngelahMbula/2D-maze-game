@@ -1,4 +1,4 @@
-title: ...
+title: 2D MAZE GAME
 email: 'mbula.angelah@gmail.com'
 description: ...
 baseurl: ...
@@ -8,7 +8,7 @@ github_username: AngelahMbula
 author: mbula.angelah@gmail.com
 
 markdown: kramdown
-theme: minima
+theme: cayman
 plugins:
   - jekyll-feed
   - jekyll-paginate-v2
